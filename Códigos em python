@@ -1,0 +1,6 @@
+print("vamos calcular o tempo do seu carro ")
+carro=int(input("digite quanto anos seu carro tem"))
+if carro<=3:
+   print("seu carro é novo")
+else:
+   print("seu carro é velho")
